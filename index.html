@@ -5,14 +5,17 @@ header:
   overlay_image: home.jpg
 title: Hello!
 excerpt: 'Welcome to my blog. You could start with one of the featured posts, or find my previous posts in the archives.'
+feature_row:
+  - image_path: dance.png
+    alt: "Dance with me"
+    title: "Dance with me"
+    excerpt: "“I can’t dance. Here, let me teach you.”"
+    url: "/docs/configuration/"
+    btn_label: "Read"
+intro:
+  - excerpt: 'Here are some of my favorites!'
 ---
 
-{% include base_path %}
+{% include feature_row id="intro" type="center" %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
+{% include feature_row %}
