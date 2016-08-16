@@ -7,18 +7,18 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+title                    : "Paroxysms of Glee and Dolour"
+title_separator          : "|"
+name                     : &name "Naresh R"
+description              : &description "My personal blog"
+url                      : # "http://ghostwriternr.me"
+baseurl                  : "/blog"
+repository               : "ghostwriternr/blog"
+teaser                   : "dlanham-Cardinal.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -30,13 +30,13 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -55,18 +55,22 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "ghostwriternr"
 facebook:
-  username               :
+  username               : &facebook "naresh.ramesh"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : &bio-image "bio-photo.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/naresh.ramesh"
+    - "https://github.com/ghostwriternr/"
+    - "https://in.linkedin.com/in/naresh-r-464a8b8b"
+    - "https://www.instagram.com/naresh_r/"
 
 # Analytics
 analytics:
@@ -77,30 +81,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : *name
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Exploring the world of ambiverts."
+  location         :
   email            :
-  uri              :
+  uri              : "http://ghostwriternr.me/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : *facebook
   foursquare       :
-  github           :
+  github           : &github "ghostwriternr"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : &instagram "naresh_r"
   lastfm           :
-  linkedin         :
+  linkedin         : &linkedin "naresh-r-464a8b8b"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -161,6 +165,48 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  code:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _code
+  - scope:
+      path: ""
+      type: code
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: true
+      comments: true
+      related: false
+      sidebar:
+        nav: "code"
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -171,7 +217,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
