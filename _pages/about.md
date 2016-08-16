@@ -3,7 +3,6 @@
 permalink: /about/
 title: "About"
 excerpt: "Paroxysms of glee and dolour is my personal blog."
-modified: 2016-04-18T16:39:37-04:00
 ---
 
 {% include base_path %}
