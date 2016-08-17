@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Silhouette's squire"
+title                    : "A Silhouette's Squire"
 title_separator          : "-"
 name                     : &name "Naresh R"
 description              : &description "My personal blog"
