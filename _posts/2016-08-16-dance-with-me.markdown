@@ -1,22 +1,17 @@
 ---
-<!-- layout: post -->
 title: "Dance With Me"
 date: 2016-08-16T13:18:17+05:30
 header:
-  image: dance.jpg
+  overlay_image: dance.jpg
+excerpt: "“I can’t dance. Here, let me teach you.”"
 permalink: /posts/dance/
 ---
-
----
-
-> “I can’t dance. Here, let me teach you.”
+  
 
 Love is weird. Love is hard. But 2 overly self-aware people falling in love is both of these, entangled in a heap of unused straws that don’t let you sip till the very last drop. Something always remains. You’re always only _almost_ there. But I tried anyway.
 
----
-
 ## 8 years ago  
-### Last day of senior year in high school  
+**Last day of senior year in high school**  
 
 Everyone was running around trying to get pictures with everybody else, with the guys striding around in intricately tooled expensive leather shoes partly covered by their razor black pants that held the ostentatious neatly ironed white shirts in place while the pretty women were gliding around in shining sarees and gorgeous gowns.  
 
@@ -32,10 +27,8 @@ The music started fading away as she raised her smooth rose-tinged slender hand 
 
 But _I didn’t tell her_. We held hands. We got our perfect photograph. We had each other’s phone numbers. And we went opposite ways.
 
----
-
 ## 3 years ago  
-### A week before I leave for London  
+**A week before I leave for London**  
 
 Here’s the thing about photographs. It captures a moment in time. A very particular instant that could easily spill through the crevices of time and distance. We usually let a lot of details get permanently lost in the dark abyss of reality as it hits us. Life, always has this interesting tendency to mold you into something better or worse than you were. And every human, ironically, always wants to be better than what he is and thus adapts himself to be in a position where a better being who felt the same once used to be. Change, is inevitable. But there is this one thing that endures these complex dynamics and maintains its state perpetually: _photographs_.  
 
@@ -48,7 +41,7 @@ I don’t like to keep count but we probably spoke exactly 45 times during the l
 I dressed up in his favorite colors. We met. Had the weekend of our lives. We took another perfect photograph. _And I didn’t tell him._
 
 ## 2 months back  
-### Heathrow Airport  
+**Heathrow Airport**  
 
 “Maybe I should call her now.”  
 
@@ -62,10 +55,8 @@ As I patiently waited near the baggage claim, I was continuously staring at my p
 
 I ran towards her. She ran towards me. Our hearts knew. Our expressions knew. _Only words didn’t._
 
----
-
 ## 2 weeks back  
-### Rivoli Ballroom  
+**Rivoli Ballroom**  
 
 We always had this weird obsession with fingers. Maybe this is true for almost anyone in this world. Or maybe it was just us. But our fingers fit perfectly between each other when we held hands. _Every time._  
 
@@ -82,10 +73,8 @@ The opera was playing [“As time goes by, Frank Sinatra”](https://www.youtube
 
 I slipped a piece of paper into his pocket. Neither of us said a word. We danced for an hour. Walked along the empty streets all night. He kissed me on the cheek.
 
----
-
 ## Present day, now.  
-### The letter  
+**The letter**  
 
 > I could offer an uneasy smile  
 > to cover things  
