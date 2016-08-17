@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en"
 title                    : "Paroxysms of Glee and Dolour"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Naresh R"
 description              : &description "My personal blog"
-url                      : "http://ghostwriternr.me" #"http://localhost:4000" 
+url                      : "http://ghostwriternr.me" # "http://localhost:4000"
 baseurl                  : "/blog"
 repository               : "ghostwriternr/blog"
 teaser                   : "dlanham-Cardinal.jpg"

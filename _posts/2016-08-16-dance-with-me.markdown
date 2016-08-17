@@ -3,8 +3,13 @@ title: "Dance With Me"
 date: 2016-08-16T13:18:17+05:30
 header:
   overlay_image: dance.jpg
+  teaser: dance.jpg
 excerpt: "“I can’t dance. Here, let me teach you.”"
 permalink: /posts/dance/
+categories:
+    - Prose
+tags:
+    - Love
 ---
   
 
