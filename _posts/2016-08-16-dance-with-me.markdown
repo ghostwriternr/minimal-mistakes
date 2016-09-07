@@ -11,7 +11,7 @@ categories:
 tags:
     - Love
 ---
-  
+
 
 Love is weird. Love is hard. But 2 overly self-aware people falling in love is both of these, entangled in a heap of unused straws that don’t let you sip till the very last drop. Something always remains. You’re always only _almost_ there. But I tried anyway.
 
@@ -20,7 +20,7 @@ Love is weird. Love is hard. But 2 overly self-aware people falling in love is b
 
 Everyone was running around trying to get pictures with everybody else, with the guys striding around in intricately tooled expensive leather shoes partly covered by their razor black pants that held the ostentatious neatly ironed white shirts in place while the pretty women were gliding around in shining sarees and gorgeous gowns.  
 
-I was late to the event. I made too many plans, and ended up with an oversized blazer older than myself and reached the event with a half groggy face having a deep mental conversation with my vintage rock n’ roll shoes. Imperfect as always. And that day was supposed to be the day I would finally ask her… for a photograph. _“Maybe I should ask for her Skype ID?”_  
+I was late to the event. I made too many plans, and ended up with an over-sized blazer older than myself and reached the event with a half groggy face having a deep mental conversation with my vintage rock n’ roll shoes. Imperfect as always. And that day was supposed to be the day I would finally ask her… for a photograph. _“Maybe I should ask for her Skype ID?”_  
 
 So being the nervous barbarian I was, I started practicing my lines in one corner of the hall. Because Murphy’s law, right? No. Because I was well… me. After considering the 56th possibility, I felt it would definitely be, “Hey Trisha, I was wonde…” when I heard a familiar voice shouting, “Brownie!” And there she was.  
 

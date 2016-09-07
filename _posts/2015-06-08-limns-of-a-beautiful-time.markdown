@@ -12,7 +12,7 @@ tags:
     - Love
     - Heartbreak
 ---
-  
+
 
 Running through the velvet field taller than herself,  
 The colleen in pink stumbled over a red little sack.  
@@ -72,7 +72,7 @@ The flush and vibrant hues of the Spring, or the brutal smite
 Of the unrelenting summer sun, their bond none shall burst.  
 
 Inextricably intricate as they were, day after day,  
-They grew closer. With Ron yodelling serenades  
+They grew closer. With Ron yodeling serenades  
 Night in and out, the captivated lass over the archway,  
 They sung a ravish love song, as a tremulous cadence parades.  
 

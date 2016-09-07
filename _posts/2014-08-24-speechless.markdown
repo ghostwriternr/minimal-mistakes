@@ -13,7 +13,7 @@ tags:
 ---
 
 She left a poem inside him  
-everytime they kissed.  
+every time they kissed.  
 He loved every breath, for her   
 words were beyond beautiful.  
 He helped uncover emotions   
@@ -23,4 +23,4 @@ lack of a voice to express each other.
 They were probably just two   
 speechless souls to the world.   
 But the world didn't matter,   
-for they created one for their own. 
+for they created one for their own.

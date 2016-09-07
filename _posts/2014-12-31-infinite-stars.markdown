@@ -11,7 +11,7 @@ tags:
     - Happy
 ---
 
-The sun takes the backdrop 
+The sun takes the backdrop
 
 ovoid droplets, pure and clear.
 
@@ -19,7 +19,7 @@ Eerie yet pleasant, are they. But it's the
 
 hallways I've begun to love ceaselessly.
 
-A different phase of the moon everyday, 
+A different phase of the moon everyday,
 
 a shivery night greets me.
 
@@ -43,9 +43,9 @@ Occasionally I dawdle over futile thoughts,
 
 of acquaintances and inquietudes.
 
-They get deeper and profound, 
+They get deeper and profound,
 
-every dayspring an ache.
+every day spring an ache.
 
 But the artistry in front being such a delight,
 
