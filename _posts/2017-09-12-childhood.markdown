@@ -28,5 +28,5 @@ you woke up to adulthood callow.
 And you melted into me without warning.  
 Lust, greed and hunger.  
 Skin, mint and bread I beg.  
-But all I now hear is the wailing  
+But all I hear today is the wailing  
 of the stars, mountains and rivers.
