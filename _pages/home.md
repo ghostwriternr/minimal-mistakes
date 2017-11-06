@@ -1,10 +1,11 @@
 ---
+title: "Hello!"
 layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home.jpg
-excerpt: 'Welcome to my blog. You could start with one of the featured posts, or find my previous posts in the archives.'
+excerpt: "Welcome to Naresh's literary blog. You could start with one of the featured posts or find past posts in the archives."
 feature_row:
   - image_path: /assets/images/childhood-front.jpg
     alt: "A letter to my childhood"
@@ -25,7 +26,7 @@ feature_row:
     url: "/posts/limns/"
     btn_label: "Read"
 intro:
-  - excerpt: 'LATEST POSTS'
+  - excerpt: 'Featured posts'
 ---
 
 {% include feature_row id="intro" type="center" %}
