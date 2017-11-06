@@ -1,9 +1,9 @@
 ---
 layout: splash
+permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home.jpg
-title: Home
 excerpt: 'Welcome to my blog. You could start with one of the featured posts, or find my previous posts in the archives.'
 feature_row:
   - image_path: /assets/images/childhood-front.jpg
