@@ -2,8 +2,9 @@
 title: "Infinite Stars"
 date: 2014-12-31T09:20:43+05:30
 header:
-  image: stars.jpg
-  teaser: stars.jpg
+  overlay_image: /assets/images/stars.jpg
+  teaser: /assets/images/stars.jpg
+excerpt: ""
 permalink: /posts/stars/
 categories:
     - Poetry

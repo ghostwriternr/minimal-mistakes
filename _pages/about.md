@@ -1,7 +1,7 @@
 ---
-permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /about/
+excerpt: "About me"
 modified: 2016-08-17T07:40:37-04:00
 ---
 

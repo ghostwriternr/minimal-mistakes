@@ -2,8 +2,8 @@
 title: "An Evening in Spring"
 date: 2014-04-25T08:26:32+05:30
 header:
-  overlay_image: spring.jpg
-  teaser: spring.jpg
+  overlay_image: /assets/images/spring.jpg
+  teaser: /assets/images/spring.jpg
 excerpt: "A walk in the park, on one of the most beautiful days"
 permalink: /posts/spring/
 categories:

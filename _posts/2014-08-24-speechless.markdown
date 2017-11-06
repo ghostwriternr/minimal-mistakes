@@ -2,8 +2,8 @@
 title: "Speechless"
 date: 2014-08-24T09:01:01+05:30
 header:
-  image: speechless.jpg
-  teaser: speechless.jpg
+  overlay_image: /assets/images/speechless.jpg
+  teaser: /assets/images/speechless.jpg
 excerpt: "An unconditional love story"
 permalink: /posts/speechless/
 categories:

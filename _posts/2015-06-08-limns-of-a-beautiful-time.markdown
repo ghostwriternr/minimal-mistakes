@@ -2,8 +2,8 @@
 title: "Limns of a Beautiful Time"
 date: 2015-06-08T00:52:27+05:30
 header:
-  overlay_image: limns.png
-  teaser: limns.png
+  overlay_image: /assets/images/limns.png
+  teaser: /assets/images/limns.png
 excerpt: "A love story inked across realms and years."
 permalink: /posts/limns/
 categories:

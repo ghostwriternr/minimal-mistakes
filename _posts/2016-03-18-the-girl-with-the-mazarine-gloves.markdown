@@ -1,8 +1,9 @@
 ---
 title: "The Girl With the Mazarine Gloves"
 header:
-  image: mazarine.jpg
-  teaser: mazarine.jpg
+  overlay_image: /assets/images/mazarine.jpg
+  teaser: /assets/images/mazarine.jpg
+excerpt: ""
 date: 2016-03-18T07:54:38+05:30
 permalink: /posts/mazarine/
 categories:

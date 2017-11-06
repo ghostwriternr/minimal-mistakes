@@ -11,8 +11,8 @@ title                    : "A Silhouette's Squire"
 title_separator          : "-"
 name                     : &name "Naresh R"
 description              : &description "My personal blog"
-url                      : "http://ghostwriternr.me" # "http://localhost:4000"
-baseurl                  : "/blog"
+url                      : "https://blog.ghostwriternr.me" # "http://localhost:4000"
+baseurl                  : ""
 repository               : "ghostwriternr/blog"
 teaser                   : "dlanham-Cardinal.jpg"
 # breadcrumbs            : false # true, false (default)
@@ -35,7 +35,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'message']
   transforms:
     email                : "md5"
@@ -82,11 +82,11 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Exploring the world of ambiverts."
-  location         :
+  location         : "Kharagpur"
   email            :
-  uri              : "http://ghostwriternr.me/"
+  uri              : "https://ghostwriternr.me/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -94,21 +94,22 @@ author:
   facebook         : *facebook
   foursquare       :
   github           : &github "ghostwriternr"
+  gitlab           :
   google_plus      :
   keybase          :
-  instagram        : &instagram "naresh_r"
+  instagram        : &instagram "noresh.romesh"
   lastfm           :
-  linkedin         : &linkedin "naresh-r-464a8b8b"
+  linkedin         : &linkedin "naresh-ramesh"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : *twitter
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -118,6 +119,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -138,6 +140,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -220,8 +224,8 @@ paginate_path: /page:num/
 timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -273,20 +277,17 @@ compress_html:
   ignore:
     envs: development
 
-# Octropress things
-# Default extension for new posts and pages
-post_ext: markdown
-page_ext: html
 
-# Default templates for posts and pages
-# Found in _templates/
-post_layout: post
-page_layout: page
-
-# Format titles with titlecase?
-titlecase: true
-
-# Change default template file (in _templates/)
-post_template: post
-page_template: page
-draft_template: draft
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

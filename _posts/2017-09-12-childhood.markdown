@@ -2,8 +2,8 @@
 title: "A letter to my childhood"
 date: 2017-09-12T18:16:00+05:30
 header:
-  image: childhood.jpg
-  teaser: childhood.jpg
+  overlay_image: /assets/images/childhood.jpg
+  teaser: /assets/images/childhood.jpg
 excerpt: "Innocence died; You survived."
 permalink: /posts/childhood/
 categories:

@@ -2,8 +2,8 @@
 title: "The Reckless Thief"
 date: 2014-03-21T09:10:35+05:30
 header:
-  image: thief.jpg
-  teaser: thief.jpg
+  overlay_image: /assets/images/thief.jpg
+  teaser: /assets/images/thief.jpg
 excerpt: "Mistakes you never understand"
 permalink: /posts/thief/
 categories:

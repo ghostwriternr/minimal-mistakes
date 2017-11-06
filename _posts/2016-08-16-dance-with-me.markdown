@@ -2,8 +2,8 @@
 title: "Dance With Me"
 date: 2016-08-16T13:18:17+05:30
 header:
-  overlay_image: dance.jpg
-  teaser: dance.jpg
+  overlay_image: /assets/images/dance.jpg
+  teaser: /assets/images/dance.jpg
 excerpt: "“I can’t dance. Here, let me teach you.”"
 permalink: /posts/dance/
 categories:
@@ -28,7 +28,7 @@ The music started fading away as she raised her smooth rose-tinged slender hand 
 
 “HEY BROWNIE!” and before I could even realize, time froze and I melted between her arms gently wrapped around me for the perfect hug. I could feel her cold neck resting on my shoulders and I knew my *best friend* could no longer just be the same.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/dance-1.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dance-1.jpg)
 
 But _I didn’t tell her_. We held hands. We got our perfect photograph. We had each other’s phone numbers. And we went opposite ways.
 
@@ -41,7 +41,7 @@ I looked into the photograph. Smiling like a Disney princess who just woke up, e
 
 I don’t like to keep count but we probably spoke exactly 45 times during the last 5 years over the phone. A smartass programmer, an even smarter talker. The one quality I find most intimidating. He was a little too smart. And I could NEVER stand all the technical jargon he spewed during those. “_We’re humans too, okay?_” I prefer plain English. Despite all the madness, he managed to keep his puerile sense of humor with him. Never missed the chance to crack the same perfect stupid joke that came into my mind at the exact same time in between any conversation. He would laugh hysterically for a minute and then look at me to make sure I laughed too. And _almost_ always, I did. Sometimes, his jokes are terrible.  
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/dance-2.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dance-2.jpg)
 
 I dressed up in his favorite colors. We met. Had the weekend of our lives. We took another perfect photograph. _And I didn’t tell him._
 
@@ -56,7 +56,7 @@ The rain splattered windows at the terminal refracting golden light all across t
 
 As I patiently waited near the baggage claim, I was continuously staring at my phone, looking at the photograph again and just occasionally glancing at the conveyer belt to check for my suitcase. But probably after 30 seconds of waiting, I noticed this funny looking package with the most unexpected text on top of it — “Brownie”. I immediately looked around and noticed this gleefully jumping woman at the far end of the belt, right about where it started. _She remembered!_  
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/dance-3.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dance-3.jpg)
 
 I ran towards her. She ran towards me. Our hearts knew. Our expressions knew. _Only words didn’t._
 
@@ -74,7 +74,7 @@ _“I can’t dance. Here, let me teach you.”_
 
 The opera was playing [“As time goes by, Frank Sinatra”](https://www.youtube.com/watch?v=wxMeu34o_jQ). He walked me to the ballroom floor, between tens of other couples slowly dancing, and held my hands. Perfectly. I could feel his warmth and nervousness, as he gracefully held me in his arms and danced. And I was just lost in the moment.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/dance-4.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dance-4.jpg)
 
 I slipped a piece of paper into his pocket. Neither of us said a word. We danced for an hour. Walked along the empty streets all night. He kissed me on the cheek.
 

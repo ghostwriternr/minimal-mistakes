@@ -2,8 +2,8 @@
 title: "5 AM"
 date: 2016-11-06T06:04:00+05:30
 header:
-  image: 5am.jpg
-  teaser: 5am.jpg
+  overlay_image: /assets/images/5am.jpg
+  teaser: /assets/images/5am.jpg
 excerpt: "The true essence of conversations"
 permalink: /posts/5am/
 categories:

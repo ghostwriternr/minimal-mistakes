@@ -2,8 +2,8 @@
 title: "The Autist"
 date: 2014-12-30T08:40:51+05:30
 header:
-  overlay_image: autist.jpg
-  teaser: autist.jpg
+  overlay_image: /assets/images/autist.jpg
+  teaser: /assets/images/autist.jpg
 excerpt: "He believes, that his dreams are now the reality."
 permalink: /posts/autist/
 categories:
